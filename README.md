@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/cs-joy?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **CSS**
+- 💬 Ask me about **Javascript** & **C++**
 
 - 📫 How to reach me **csjoy0363@yahoo.com**
 
