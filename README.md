@@ -2,7 +2,7 @@
 <sub><sup>Art by [waneella_](https://twitter.com/waneella_)</sup></sub>
 
 <h1 align="center">Hi 👋, I'm Zahangir Alam(CsJoy)</h1>
-<h3 align="center">A passionate computer science student from Bangladesh</h3>
+<h3 align="center">AJ</h3>
 	
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cs-joy&color=blue&style=flat">
