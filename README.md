@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=cs-joy&color=blue&style=flat">
 </p>
 
-- 🌱 I’m currently learning **Redux, PHP, Lua, etc.**
+- 🌱 I’m currently learning **Sass, PHP, Database Management System, etc.**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/cs-joy?tab=repositories)
 
