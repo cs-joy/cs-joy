@@ -39,6 +39,8 @@
 <br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-181717?style=for-the-badge&logo=bitbucket)
+![GitLab](https://img.shields.io/badge/-GitLab-181717?style=for-the-badge&logo=gitlab)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
 ![Composer](https://img.shields.io/badge/-composer-CB3837?style=for-the-badge&logo=composer)
