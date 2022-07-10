@@ -29,6 +29,7 @@
 ![GO](https://img.shields.io/badge/Go-00599C?style=for-the-badge&logo=go&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-00599C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23E44D27?style=for-the-badge&logo=java&logoColor=white)
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -57,6 +58,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-61DAFB?style=for-the-badge&logo=docker&logoColor=ffffff)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![PyCharm](http://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-339933?style=for-the-badge&logo=Android&logoColor=ffffff)
