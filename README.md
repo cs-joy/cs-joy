@@ -79,6 +79,6 @@
 <!-- <a href="https://www.cs.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://linkedin.com/in/csjoy0363"><img src="https://img.shields.io/badge/CsJoy-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:csjoy0363@yahoo.com"><img src="https://img.shields.io/badge/-csjoy0363@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/CsJoy0363"><img src="https://img.shields.io/badge/-@CsJoy-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/cs_joy0"><img src="https://img.shields.io/badge/-@CsJoy-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="csjoy" /></p> -->
