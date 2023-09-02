@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=cs-joy&color=blue&style=flat">
 </p>
 
-- 🌱 I’m currently learning **XML, Java, Python, etc.**
+- 🌱 I’m currently learning **ML(Machine Learning)**
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/cs-joy?tab=repositories)
 
-- 💬 Ask me about **Javascript** & **C++**
+- 💬 Ask me anything about TECH
 
 - 📫 How to reach me **csjoy0363@yahoo.com**
 
@@ -81,4 +81,4 @@
 <a href="mailto:csjoy0363@yahoo.com"><img src="https://img.shields.io/badge/-csjoy0363@yahoo.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/cs_joy0"><img src="https://img.shields.io/badge/-@CsJoy-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
-<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="csjoy" /></p> -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek9patel&" alt="csjoy" /></p>
