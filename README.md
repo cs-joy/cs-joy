@@ -12,8 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/cs-joy?tab=repositories)
 
-- 💬 Ask me anything about TECH
-
 - 📫 How to reach me **csjoy0363@yahoo.com**
 
 
