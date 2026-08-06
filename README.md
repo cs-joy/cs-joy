@@ -16,6 +16,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cs-joy&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-#I communicate fluently with Linux, macOS, Windows, Fedora, and Ubuntu using C/C++, Java, JavaScript, Python, Solidity, R, Matlab, and LaTeX—each for its natural habitat. I build automated systems via GHL and n8n, create LLM-powered AI agents, and design secure federated learning models. Daily drivers: Git, Docker, Kubernetes, CI/CD, cloud, Grafana. Yes—things run quietly in the background 😄
-`-sz :)`
